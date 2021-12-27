@@ -6,7 +6,11 @@ public class Main {
 		System.out.print("HELLO WORLD");
 		//jjjj
 		//aaaa
+<<<<<<< HEAD
 		//AngelChang2
+=======
+		//DATASTRUCTURE
+>>>>>>> branch 'master' of https://github.com/potat000/team5.git
 	}
 
 }
